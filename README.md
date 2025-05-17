@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedikatechlead
-- 👀 I’m interested in phython /AI-ML/ PROMT ENGINEERING
+- 👀 I’m interested in C/ python /AI-ML/ PROMT ENGINEERING
 - 🌱 I’m actively upskilling to align with industry demands
 - 💞️ I’m looking to collaborate on hackathon projects and drive tech innovations with expertise in management and startups
 - 📫 you can reach me on linkdien also 
